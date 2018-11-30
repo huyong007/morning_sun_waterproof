@@ -1,0 +1,15 @@
+{
+	"description": "A WePY project",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxf92fb89d9d898590",
+	"projectname": "morning_sun_waterproof",
+	"miniprogramRoot": "dist/",
+	"condition": {}
+}
